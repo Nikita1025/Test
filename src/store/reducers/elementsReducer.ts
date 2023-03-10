@@ -8,17 +8,17 @@ const initialState={
         {id:4, symbol: '+'},
     ],
     numbers:[
-        {id:1, value: 9},
-        {id:2, value: 8},
-        {id:3, value: 7},
-        {id:4, value: 6},
-        {id:5, value: 5},
-        {id:6, value: 4},
-        {id:7, value: 3},
-        {id:8, value: 2},
-        {id:9, value: 1},
-        {id:10, value: ','},
-        {id:11, value: 0},
+        {id:1, number: 9},
+        {id:2, number: 8},
+        {id:3, number: 7},
+        {id:4, number: 6},
+        {id:5, number: 5},
+        {id:6, number: 4},
+        {id:7, number: 3},
+        {id:8, number: 2},
+        {id:9, number: 1},
+        {id:10, number: ','},
+        {id:11, number: 0},
     ]
 }
 
