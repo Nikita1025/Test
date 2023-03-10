@@ -1,0 +1,48 @@
+
+
+.active_page path{
+    stroke: #5D5FEF;
+}
+.inactive_page path{
+    stroke: #4D5562;
+}
+.button_active,
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 6px;
+    background-color: #F3F4F6;
+    width: 133px;
+    color: #4D5562;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 15px;
+    margin: 1px;
+}
+
+.button_active{
+    background: #FFFFFF;
+    border: 1px solid #E2E3E5;
+    border-radius: 5px;
+}
+.button_box{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+    width: 100%;
+    margin-bottom: 32px;
+    background: #F3F4F6;
+    border-radius: 6px;
+
+
+}
+.border_box{
+    background-color: #F3F4F6;
+}
+.text{
+    margin: 0;
+    padding-left: 11px;
+
+}
