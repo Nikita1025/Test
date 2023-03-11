@@ -34,6 +34,16 @@
     border: 1px solid #E2E3E5;
     border-radius: 6px;
 }
+
+.button_number:active{
+    border: 2px solid #5D5FEF;
+}
+.button_null:active{
+    border: 2px solid #5D5FEF;
+}
+.button_symbols:active{
+    border: 2px solid #5D5FEF;
+}
 .button_number{
     width: 72px;
 }
